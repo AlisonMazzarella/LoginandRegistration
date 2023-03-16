@@ -13,10 +13,10 @@ While I have some knowledge and experience with object-orientated programming la
 
 - Visual Studio 2022
 - Empty Project Framework 
-- <iostream> library tool
-- <fstream> library tool
-- <string> library tool
-- <vector> library tool 
+- iostream library tool
+- fstream library tool
+- string library tool
+- vector library tool 
 - C++ 
 
 # Useful Websites
