@@ -1,35 +1,31 @@
-# LoginandRegistration
-Use C++ to create Login and Registration. 
+# PracticeCPlusPlus
+Create a basic program that highlights different things you can do using C++.  
 
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+The program I wrote demonstrates how to use C++ to read and write to a .txt file. It also demonstrates how to add libraries, declare functions, declare a class, and use variables, expressions, conditionals, loops, functions, and using a list. 
 
-{Provide a description of the software that you wrote to demonstrate the C++ language.}
+While I have some knowledge and experience with object-orientated programming languages like Python, I have no prior experience with C++. My purpose for creating a program with C++ was to understand the similarities and differences between it and Python and to also learn how to write basic programs using it. I am also rather new to using Visual Studio; I mostly only use it for .NET and C#, so getting more practice with it is also beneficial to my learning goals. 
 
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/qiTfwmfzn9Q)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+- Visual Studio 2022
+- Empty Project Framework 
+- <iostream> library tool
+- <fstream> library tool
+- <string> library tool
+- <vector> library tool 
+- C++ 
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [W3 Schools](https://www.w3schools.com/cpp/)
+- [Microsoft](https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- Add more items to the Breeds.txt file.
+- Add more components from STL. 
+- Create a game using C++. 
